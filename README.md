@@ -1,5 +1,7 @@
 # ESXi670-201912001
 
+** Falta saber si con la ISO nativa de vSphere 6.7 deja instalar... **
+
 INTRODUCCIÓN
 En este repo voy a enseñar como he customizado la ISO de instalación de VMware vShpere 6.7 para que reconozca la tarjeta de red de mi placa base
 
